@@ -1,0 +1,3 @@
+boombox,15000
+brudda,23
+ilikeu,300
